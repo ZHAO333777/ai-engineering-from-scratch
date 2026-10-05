@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner.svg" alt="AI Engineering from Scratch — reference manual banner" width="100%">
 </p>
-
+赵保帅
 <p align="center">
   <b>Read in your language:</b>
   <a href="i18n/es/README.md">Español</a> ·
